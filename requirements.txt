@@ -1,0 +1,7 @@
+numpy
+Pillow
+matplotlib
+pycocotools
+tqdm
+scikit-learn
+fiftyone
