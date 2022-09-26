@@ -9,6 +9,10 @@ To run the code, install the required dependencies listed in the requirements.tx
 
 For further information about the dataset and other resources see also this [page](http://aimh.isti.cnr.it/dataset/mobdrone/).
 
+<p align="center">
+  <img src="images/repo_image.png">
+</p>
+
 
 ## Reference
 If you found this code useful, please cite the following paper:
