@@ -1,7 +1,5 @@
-numpy
-Pillow
-matplotlib
 pycocotools
+Pillow
 tqdm
 scikit-learn
 fiftyone
