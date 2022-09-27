@@ -5,7 +5,7 @@ Code for evaluate the MOBDrone Dataset, accepted at ICIAP 2021 [[Pre-print PDF](
 The MOBDrone benchmark is a large-scale drone-view dataset suitable for detecting persons overboard. We publicly release this dataset in the Zenodo repository [[Zenodo Link](https://zenodo.org/record/5996890#.YzGj035BxhE)]. 
 
 In this repository we provide a jupyter notebook to reproduce some results reported in our paper.
-To run the code, install the required dependencies listed in the requirements.txt file, and put the json files containing the computed predictions in the 'predictions' folder (you can download the predictions [here](https://drive.google.com/file/d/1fPc8EaryKfr6nq_K_XpSgG-PJMXT7x4Z/view?usp=sharing)). For the second part of the analysis, it is also needed to put the images into the 'data' folder (you can download images from the Zenodo repo).
+To run the code, install the required dependencies listed in the requirements.txt file, and put the json files containing the computed predictions in the 'predictions' folder (you can download the predictions [here](http://cloudone.isti.cnr.it/rescue_drone_dataset/predictions.zip)). For the second part of the analysis, it is also needed to put the images into the 'data' folder (you can download images from the Zenodo repo).
 
 For further information about the dataset and other resources see also this [page](http://aimh.isti.cnr.it/dataset/mobdrone/).
 
